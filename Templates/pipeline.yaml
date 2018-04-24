@@ -72,7 +72,7 @@ Resources:
                 ActionMode: REPLACE_ON_FAILURE
                 RoleArn: !Sub ${CFNRole.Arn}
                 StackName: !Sub "${ApplicationName}-${BranchName}"
-                TemplatePath: "TemplateSource::templates/template.yaml"
+                TemplatePath: "TemplateSource::Templates/Template.yaml"
 
 
   CFNRole:

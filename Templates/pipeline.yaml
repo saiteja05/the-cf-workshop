@@ -16,7 +16,7 @@ Parameters:
   BranchName:
     Description: The branch in version control to retrieve changes from
     Type: String
-    Default: develop
+    Default: dev
   ApplicationName:
     Description: >
       The name of the application. This will be used as part of the name of the stack, as well as the name of the pipeline

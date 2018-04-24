@@ -9,7 +9,7 @@ Parameters:
     Description: A public subnet Id to use for the load balancer
     Type: AWS::EC2::Subnet::Id
   PublicSubnetTwoId:
-    Description: A public subnet Id to use for the load balancer, in a different availability zone
+    Description: A public subnet Id to use for the load balancer, in a different availability zone in demo
     Type: AWS::EC2::Subnet::Id
 
 

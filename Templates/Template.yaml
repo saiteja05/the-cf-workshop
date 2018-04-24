@@ -29,7 +29,7 @@ Resources:
                     ensureRunning: true
       Properties: 
         ImageId : ami-467ca739
-        InstanceType: m8.xlarge
+        InstanceType: m4.xlarge
         SecurityGroups:
           - !Ref securityGroup
         UserData:

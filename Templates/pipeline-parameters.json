@@ -1,0 +1,25 @@
+[
+  {
+    "ParameterKey": "RepositoryName",
+    "ParameterValue": "the-cf-workshop"
+    
+  },
+  {
+    "ParameterKey": "RepositoryOwner",
+    "ParameterValue": "saiteja05"
+    
+  },
+  {
+    "ParameterKey": "GithubAccessToken",
+    "ParameterValue": "390a4abd29bdf728414d4d705bcb12c9414f9572"
+}
+{
+    "ParameterKey": "PublicSubnetOneId",
+    "ParameterValue": "subnet-3ddb9659"
+  },
+  {
+    "ParameterKey": "PublicSubnetTwoId",
+    "ParameterValue": "subnet-e9b032c6"
+  }
+    
+]

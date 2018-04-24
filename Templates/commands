@@ -1,0 +1,3 @@
+aws cloudformation create-stack --stack-name webapp-dev --template-body file://Templates/Template.yaml 
+
+aws cloudformation wait stack-create-complete --stack-name webapp-dev
